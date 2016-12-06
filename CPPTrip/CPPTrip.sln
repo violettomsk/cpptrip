@@ -23,6 +23,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Concept.OverLoadding", "Con
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Concept.RuleOfThree", "Concept.RuleOfThree\Concept.RuleOfThree.vcxproj", "{80653593-4E2A-44EC-A2A3-072E89C14193}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Concept.C++11.Is_base_of", "Concept.C++11.Is_base_of\Concept.C++11.Is_base_of.vcxproj", "{974C1999-E20D-4B9D-B214-4725E905E63D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Concept.TryCatchThrowFlow", "Concept.ExceptionError\Concept.ExceptionError.vcxproj", "{693D3E40-1800-4FC0-8104-CE66F2A061D1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Concept.TemplateSameClass", "Concept.TemplateSameClass\Concept.TemplateSameClass.vcxproj", "{A08BEA32-A07D-4BD1-828D-8A1EA797B14E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -69,6 +75,18 @@ Global
 		{80653593-4E2A-44EC-A2A3-072E89C14193}.Debug|Win32.Build.0 = Debug|Win32
 		{80653593-4E2A-44EC-A2A3-072E89C14193}.Release|Win32.ActiveCfg = Release|Win32
 		{80653593-4E2A-44EC-A2A3-072E89C14193}.Release|Win32.Build.0 = Release|Win32
+		{974C1999-E20D-4B9D-B214-4725E905E63D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{974C1999-E20D-4B9D-B214-4725E905E63D}.Debug|Win32.Build.0 = Debug|Win32
+		{974C1999-E20D-4B9D-B214-4725E905E63D}.Release|Win32.ActiveCfg = Release|Win32
+		{974C1999-E20D-4B9D-B214-4725E905E63D}.Release|Win32.Build.0 = Release|Win32
+		{693D3E40-1800-4FC0-8104-CE66F2A061D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{693D3E40-1800-4FC0-8104-CE66F2A061D1}.Debug|Win32.Build.0 = Debug|Win32
+		{693D3E40-1800-4FC0-8104-CE66F2A061D1}.Release|Win32.ActiveCfg = Release|Win32
+		{693D3E40-1800-4FC0-8104-CE66F2A061D1}.Release|Win32.Build.0 = Release|Win32
+		{A08BEA32-A07D-4BD1-828D-8A1EA797B14E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A08BEA32-A07D-4BD1-828D-8A1EA797B14E}.Debug|Win32.Build.0 = Debug|Win32
+		{A08BEA32-A07D-4BD1-828D-8A1EA797B14E}.Release|Win32.ActiveCfg = Release|Win32
+		{A08BEA32-A07D-4BD1-828D-8A1EA797B14E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
